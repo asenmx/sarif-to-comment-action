@@ -1,6 +1,6 @@
 # action.yml
 name: 'sarif-to-comment-action'
-author: tomwillis608
+author: asenmx
 description: 'Run @security-alert/sarif-to-comment to post the content of a SARIF file to a GitHub pull request.'
 inputs:
   sarif-file:
